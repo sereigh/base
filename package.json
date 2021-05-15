@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/sereigh/base#readme",
   "devDependencies": {
-    "@babel/core": "7.14.0",
-    "@babel/preset-env": "7.14.0",
+    "@babel/core": "7.14.2",
+    "@babel/preset-env": "7.14.2",
     "@babel/preset-react": "7.13.13",
     "@webpack-contrib/eslint-config-webpack": "3.0.0",
     "babel-loader": "8.2.2",
