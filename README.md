@@ -26,11 +26,11 @@
 
 ### Development
 
-> SUMMARY OF ROLE/GOAL
+> SUMMARY OF ROLE IN THE PROJECT / GOAL OF THE APPLICATION
 
-SUMMARY OF IMPLEMENTATION
+SUMMARY OF IMPLEMENTATION OR INTERESTING HIGHLIGHTS
 
-> Check out [Operation](#Operation) for an overview of the services' functionality or the [Preview](#Preview) below for a demonstration of all features.
+> Check out [Operation](#Operation) for an overview of functionality or the [Preview](#Preview) below for a demonstration of all features.
 
 
 ### Installation
@@ -56,23 +56,27 @@ http://localhost:3000
 
 ### Operation
 
+- CLICK THIS BUTTON TO DO THAT THING
 
+- TYPE HERE TO GET SOME KIND OF RESULT
+
+- THIS ROUTE DOES X, Y, Z
 
 ### Preview
 
-![Preview](demo/APP DEMO.gif)
+![APP-DEMO](demo/APP-DEMO.gif "APP-DEMO DESCRIPTION")
 
 ### Screenshots
 
-![FEATURE](demo/FEATURE.png "FEATURE NAME")
-![FEATURE](demo/FEATURE.png "FEATURE NAME")
-![FEATURE](demo/FEATURE.png "FEATURE NAME")
+![FEATURE](demo/FEATURE.png "FEATURE DESCRIPTION")
+![FEATURE](demo/FEATURE.png "FEATURE DESCRIPTION")
+![FEATURE](demo/FEATURE.png "FEATURE DESCRIPTION")
 
 ### Process
 
-![DIAGRAM](demo/DIAGRAM.png "Diagram Here")
-![DIAGRAM](demo/DIAGRAM.png "Diagram Here")
-![DIAGRAM](demo/DIAGRAM.png "Diagram Here")
+![DIAGRAM](demo/DIAGRAM.png "DIAGRAM DESCRIPTION")
+![DIAGRAM](demo/DIAGRAM.png "DIAGRAM DESCRIPTION")
+![DIAGRAM](demo/DIAGRAM.png "DIAGRAM DESCRIPTION")
 
 ### Testing
 
@@ -80,7 +84,9 @@ This application was tested with Jest & Supertest.
 
 From within the root directory:
 
+``
 npm test
+``
 
 ### License
 
