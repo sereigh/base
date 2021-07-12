@@ -28,7 +28,13 @@
 
 > SUMMARY OF ROLE IN THE PROJECT / GOAL OF THE APPLICATION
 
-SUMMARY OF IMPLEMENTATION OR INTERESTING HIGHLIGHTS
+DELIBERATE CHOICES MADE. 
+
+SOLUTIONS TO UNIQUE CONSTRAINTS.
+
+HOW SPECIFICATIONS WERE DECIDED OR MET.
+
+
 
 > Check out [Operation](#Operation) for an overview of functionality or the [Preview](#Preview) below for a demonstration of all features.
 
