@@ -36,7 +36,7 @@ HOW SPECIFICATIONS WERE DECIDED OR MET.
 
 
 
-> Check out [Operation](#Operation) for an overview of functionality or the [Preview](#Preview) below for a demonstration of all features.
+> DIRECTION STATEMENT TO [Operation](#Operation) AND [Preview](#Preview) SECTIONS.
 
 
 ### Installation
