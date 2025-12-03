@@ -38,7 +38,7 @@
     "eslint-webpack-plugin": "3.0.1",
     "jest": "27.0.6",
     "nodemon": "2.0.12",
-    "normalize-url": "7.0.0",
+    "normalize-url": "7.2.0",
     "prop-types": "15.7.2",
     "supertest": "6.1.4",
     "webpack": "5.47.1",
