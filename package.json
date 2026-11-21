@@ -40,7 +40,7 @@
     "nodemon": "2.0.12",
     "normalize-url": "7.0.0",
     "prop-types": "15.7.2",
-    "supertest": "6.1.4",
+    "supertest": "6.3.4",
     "webpack": "5.47.1",
     "webpack-cli": "4.7.2"
   },
